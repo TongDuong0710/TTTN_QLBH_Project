@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/HocKi2Nam4/DiDong/AppBanDoChoi/app/src/main/res/drawable-anydpi/ic_baseline_add_24.xml" value="0.2703125" />
+        <entry key="..\:/HocKi2Nam4/DiDong/AppBanDoChoi/app/src/main/res/drawable-anydpi/round_button.xml" value="0.2703125" />
+        <entry key="..\:/HocKi2Nam4/DiDong/AppBanDoChoi/app/src/main/res/drawable-anydpi/side_nav_bar.xml" value="0.2703125" />
+        <entry key="..\:/HocKi2Nam4/DiDong/AppBanDoChoi/app/src/main/res/drawable-hdpi/border_ui.xml" value="0.2703125" />
+        <entry key="..\:/HocKi2Nam4/DiDong/AppBanDoChoi/app/src/main/res/drawable-hdpi/ic_muabothe.xml" value="0.2703125" />
+        <entry key="..\:/HocKi2Nam4/DiDong/AppBanDoChoi/app/src/main/res/drawable/background_button.xml" value="0.2703125" />
+        <entry key="..\:/HocKi2Nam4/DiDong/AppBanDoChoi/app/src/main/res/drawable/round_text.xml" value="0.2703125" />
+        <entry key="..\:/HocKi2Nam4/DiDong/AppBanDoChoi/app/src/main/res/layout/activity_dangki.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/AppBanDoChoi/app/src/main/res/layout/activity_dathang.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/AppBanDoChoi/app/src/main/res/layout/activity_dathang_sp.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/AppBanDoChoi/app/src/main/res/layout/activity_doi_mat_khau.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/AppBanDoChoi/app/src/main/res/layout/activity_ggmap.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/AppBanDoChoi/app/src/main/res/layout/activity_lichsu.xml" value="0.264" />
+        <entry key="..\:/HocKi2Nam4/DiDong/AppBanDoChoi/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/AppBanDoChoi/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/AppBanDoChoi/app/src/main/res/layout/activity_quan_li_nguoi_dung.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/AppBanDoChoi/app/src/main/res/layout/adapter_bothe.xml" value="0.4" />
+        <entry key="..\:/HocKi2Nam4/DiDong/AppBanDoChoi/app/src/main/res/layout/adapter_ctddh.xml" value="0.23777173913043478" />
+        <entry key="..\:/HocKi2Nam4/DiDong/AppBanDoChoi/app/src/main/res/layout/adapter_giohang.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/AppBanDoChoi/app/src/main/res/layout/adapter_lsdh.xml" value="0.2" />
+        <entry key="..\:/HocKi2Nam4/DiDong/AppBanDoChoi/app/src/main/res/layout/adapter_sanpham.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/AppBanDoChoi/app/src/main/res/layout/adapter_xacnhandh_sp.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/AppBanDoChoi/app/src/main/res/layout/custom_ctddh.xml" value="0.23777173913043478" />
+        <entry key="..\:/HocKi2Nam4/DiDong/AppBanDoChoi/app/src/main/res/layout/fragment_bo_the_cua_toi.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/AppBanDoChoi/app/src/main/res/layout/fragment_cuahang.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/AppBanDoChoi/app/src/main/res/layout/fragment_giohang.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/AppBanDoChoi/app/src/main/res/layout/fragment_lichsu.xml" value="0.264" />
+        <entry key="..\:/HocKi2Nam4/DiDong/AppBanDoChoi/app/src/main/res/layout/fragment_san_pham.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/AppBanDoChoi/app/src/main/res/layout/fragment_thongke.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/AppBanDoChoi/app/src/main/res/layout/lsddh.xml" value="0.2418478260869565" />
+        <entry key="..\:/HocKi2Nam4/DiDong/AppBanDoChoi/app/src/main/res/layout/nav_header_navigation_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/AppBanDoChoi/app/src/main/res/layout/number_picker_custom_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/AppBanDoChoi/app/src/main/res/layout/toolbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/AppBanDoChoi/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/HocKi2Nam4/DiDong/AppBanDoChoi/app/src/main/res/menu/drawer_view.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

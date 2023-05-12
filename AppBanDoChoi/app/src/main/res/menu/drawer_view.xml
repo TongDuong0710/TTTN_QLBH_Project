@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navDoiThongTin"
+            android:icon="@android:drawable/ic_menu_edit"
+            android:title="Đổi Thông Tin" />
+        <item
+            android:id="@+id/navDoiMK"
+            android:icon="@android:drawable/ic_lock_idle_lock"
+            android:title="Đổi Mật Khẩu" />
+        <item
+            android:id="@+id/navAboutUs"
+            android:icon="@android:drawable/ic_dialog_info"
+            android:title="About us" />
+    </group>
+
+</menu>

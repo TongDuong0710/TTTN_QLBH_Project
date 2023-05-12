@@ -1,0 +1,42 @@
+package ptithcm.bean;
+
+import javax.persistence.Column;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+import javax.persistence.JoinColumn;
+import javax.persistence.ManyToOne;
+
+import ptithcm.entity.SANPHAMk;
+
+public class DetailOrderInput {
+	private int MSCTDDH;
+	private int donDatHang;
+	private SANPHAMk SANPHAM;
+	private int soLuong;
+	public int getMSCTDDH() {
+		return MSCTDDH;
+	}
+	public void setMSCTDDH(int mSCTDDH) {
+		MSCTDDH = mSCTDDH;
+	}
+	public int getDonDatHang() {
+		return donDatHang;
+	}
+	public void setDonDatHang(int donDatHang) {
+		this.donDatHang = donDatHang;
+	}
+	public SANPHAMk getSANPHAM() {
+		return SANPHAM;
+	}
+	public void setSANPHAM(SANPHAMk SANPHAM) {
+		this.SANPHAM = SANPHAM;
+	}
+	public int getSoLuong() {
+		return soLuong;
+	}
+	public void setSoLuong(int soLuong) {
+		this.soLuong = soLuong;
+	}
+	
+	
+}
